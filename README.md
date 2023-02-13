@@ -1,6 +1,9 @@
+
 # CoreCubeXY
 
 ### CoreCubeXY is a cheap and accessible Core-XY 3D printer
+
+![CoreCubeXY_rev2_v1_2023-Feb-13_04-22-09PM-000_CustomizedView12046324757_png](https://user-images.githubusercontent.com/115323100/218516080-381e7306-f9e4-44a5-a19b-fbc15de0474d.png)
 
 
 # Features:
