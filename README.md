@@ -13,13 +13,19 @@ Speeds of up to 300mm/s
 
 Accelerations of up to 10000mm/s^2
 
-Sensorless Homing 
+Sensorless Homing when using TMC-Drivers  
 
 Klicky_Probe compatible
 
 Easy to upgrade 
 
-### **This project is still a work in progress**
+### ***Please notice that this project is still a work in progress***
+
+#### Coming Soon:
+
+_A partlist/BOM_
+
+_I'm working on a version with a single Z-Motor and mounts for conventional End-stops to make the build even more aproachable_
 
 
 
