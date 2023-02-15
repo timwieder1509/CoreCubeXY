@@ -22,7 +22,7 @@ Klicky_Probe compatible
 
 Easy to upgrade 
 
-### ***Please notice that this project is still a work in progress***
+### ***Please note that this project is still a work in progress***
 
 #### Coming Soon:
 
