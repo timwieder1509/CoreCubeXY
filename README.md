@@ -1,4 +1,3 @@
-
 # CoreCubeXY
 
 ### CoreCubeXY is a cheap and accessible Core-XY 3D printer
@@ -21,6 +20,8 @@ Sensorless Homing when using TMC-Drivers
 Klicky_Probe compatible
 
 Easy to upgrade 
+
+![tempImageiDoiUQ](https://user-images.githubusercontent.com/115323100/219112355-416d7413-b263-4a27-b2ca-b8a0d37aa044.gif)
 
 ### ***Please note that this project is still a work in progress***
 
