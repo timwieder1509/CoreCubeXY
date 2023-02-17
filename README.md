@@ -23,6 +23,8 @@ Easy to upgrade
 
 ![tempImageiDoiUQ](https://user-images.githubusercontent.com/115323100/219112355-416d7413-b263-4a27-b2ca-b8a0d37aa044.gif)
 
+Video of it printing a Benchy: https://youtu.be/joYZc8ANMAQ
+
 ### ***Please note that this project is still a work in progress***
 
 #### Coming Soon:
