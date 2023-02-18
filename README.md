@@ -25,6 +25,12 @@ Easy to upgrade
 
 Video of it printing a Benchy: https://youtu.be/joYZc8ANMAQ
 
+***Note***
+
+The 2020 extrusions I used are NUT 5 extrusions, that means that their slots are 5mm wide unlike on the more commonly on 3D printers used V-slot extrusions that have 6mm wide slots. 
+You can use V-slot extrusions when you build one for yourself, use whatever is more easy for you to source. 
+Just make sure that the hole in the middle of the profile has the correct diameter to cut an M5 thread into it. 
+
 ### ***Please note that this project is still a work in progress***
 
 #### Coming Soon:
